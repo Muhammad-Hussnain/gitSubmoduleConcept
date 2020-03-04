@@ -1,0 +1,3 @@
+[submodule "gitSubmoduleConceptChild"]
+	path = gitSubmoduleConceptChild
+	url = https://github.com/Muhammad-Hussnain/gitSubmoduleConceptChild.git
